@@ -2,5 +2,7 @@ Hi everyone,am Prasad
 
 
 [A[hey
-hello
-making changes to main file now
+<<<<<<< HEAD
+hi :wq
+making changes in pk_branch
+>>>>>>> pk_branch
